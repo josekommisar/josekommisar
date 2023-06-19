@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @josekommisar
 
 - 👀 I’m interested in web development, web apps, cloud web services
-- 🌱 I’m currently learning web dev full stack, AWS, terraform, ansible, python
+- 🌱 I’m currently dedicated to webdev (full stack), AWS, terraform, ansible, python
 - 💞️ I’m looking to collaborate on health-data initiatives
 - 📫 How to reach me --> call_me@kommisar.dev
 
